@@ -1,67 +1,105 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:1:1-11:12
-INJECTED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:1:1-11:12
-INJECTED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:1:1-11:12
-INJECTED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:1:1-11:12
+ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:design:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/88260d7c1c09d373c9d8d9c0df22b4e3/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/01619b64f901b143f3695cfb1b909e62/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/phoenix/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6fc22ed0bdd24317387aaa80a7eaa144/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/c81008ebd1143eb6c05a4c218b5d51bf/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f77d58bb9f3ec73daca0522482291601/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/60ecb37d2b3f69591f64547aa84f9860/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/69304a9fff5ba34da735adfcf5945421/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/df39e98f587c9f8ceac597a1892cd17f/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d1a494c0d1c5eddb0c90a5c3e84dee2f/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e0048aa21f1a493e7e970e0825b79fb7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/12e5ed413cb15c2b0e848f4cfd92783f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/ee8225d03833e8e19cb55e52075a0242/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c8fcdff988ed2e46c405b1ec61d86f53/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/phoenix/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f53accb2261298dbe99959d14bc4c5dd/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/phoenix/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b60240cafab76aad4e5a17f0002cc1bd/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/phoenix/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/be70f689f8e1cf7446b36c4b6670b695/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /home/phoenix/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c8931e7a5fd0dab7f6fa021d5bc31420/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:1:1-11:12
-INJECTED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:1:1-11:12
-INJECTED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:2:1-23:12
 	package
-		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:2:5-35
+		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:3:5-35
 		INJECTED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml
 		INJECTED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml
-		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:1:1-11:12
+		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:2:1-23:12
 		INJECTED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml
-		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:1:1-11:12
+		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:2:1-23:12
 		INJECTED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:4:5-10:43
+ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/phoenix/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6fc22ed0bdd24317387aaa80a7eaa144/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/phoenix/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6fc22ed0bdd24317387aaa80a7eaa144/AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:7:9-41
+		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:8:9-54
+		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:6:9-43
+		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:5:9-35
+		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:10:9-40
+		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.baldo.weatherapp.MainActivity
+ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:label
+		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:14:13-56
+	android:theme
+		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml:18:27-74
 uses-sdk
 INJECTED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml
 INJECTED from /home/phoenix/Lab/training/android/WeatherApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/88260d7c1c09d373c9d8d9c0df22b4e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/88260d7c1c09d373c9d8d9c0df22b4e3/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/01619b64f901b143f3695cfb1b909e62/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/01619b64f901b143f3695cfb1b909e62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/phoenix/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6fc22ed0bdd24317387aaa80a7eaa144/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/phoenix/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/6fc22ed0bdd24317387aaa80a7eaa144/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/c81008ebd1143eb6c05a4c218b5d51bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/c81008ebd1143eb6c05a4c218b5d51bf/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f77d58bb9f3ec73daca0522482291601/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f77d58bb9f3ec73daca0522482291601/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/60ecb37d2b3f69591f64547aa84f9860/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/60ecb37d2b3f69591f64547aa84f9860/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/69304a9fff5ba34da735adfcf5945421/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/69304a9fff5ba34da735adfcf5945421/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/df39e98f587c9f8ceac597a1892cd17f/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/df39e98f587c9f8ceac597a1892cd17f/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d1a494c0d1c5eddb0c90a5c3e84dee2f/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d1a494c0d1c5eddb0c90a5c3e84dee2f/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e0048aa21f1a493e7e970e0825b79fb7/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e0048aa21f1a493e7e970e0825b79fb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/12e5ed413cb15c2b0e848f4cfd92783f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/12e5ed413cb15c2b0e848f4cfd92783f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/ee8225d03833e8e19cb55e52075a0242/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/ee8225d03833e8e19cb55e52075a0242/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c8fcdff988ed2e46c405b1ec61d86f53/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] /home/phoenix/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c8fcdff988ed2e46c405b1ec61d86f53/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/phoenix/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f53accb2261298dbe99959d14bc4c5dd/AndroidManifest.xml:20:5-44

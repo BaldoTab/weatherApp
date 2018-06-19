@@ -4,6 +4,25 @@
             "outputFile": "/home/phoenix/Lab/training/android/WeatherApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
+                    "source": "/home/phoenix/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/88260d7c1c09d373c9d8d9c0df22b4e3/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                },
+                {
                     "source": "/home/phoenix/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/01619b64f901b143f3695cfb1b909e62/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
